@@ -5,7 +5,7 @@
     font-family: 'Work Sans', sans-serif;
 }
 
-
+/* home-section */
 #header-container{
     background-image:url('../images/banner/banner1.png'); 
     background-repeat: no-repeat;
@@ -55,6 +55,7 @@
 }
 
 /* Section Container */
+
 #failure-container{
     padding:85px;
     display: flex;
@@ -118,6 +119,8 @@ display: flex;
     margin: auto;
 }
 
+/* gradiant-section */
+
 #gradient-img{
     background-image: url('../images/watch.png'),url('../images/gradient2.png');
     background-repeat: no-repeat;
@@ -155,7 +158,28 @@ display: flex;
     color: #ff5252;
     font-size: 15px;
     padding: 12px 18px;}
+
+
+/* new-year-section */
+#new-year{
+    text-align: center;
+    font-size:30px;
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+
+#dummy-text{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
     
+}
+
+    
+
+ /* footer-section */
+
 footer {
     background: black;
     color: white;
