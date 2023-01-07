@@ -2,7 +2,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
 
 
@@ -31,10 +31,12 @@
     text-align: right;
     margin-right: 100px;
     font-size: 11px;
+    
 }
 #p-primary{
     text-align: right; 
     padding-top: 12px;
+    color: #707575;
 }
 
 .btn {
@@ -69,6 +71,7 @@ padding-left:70px;
 #section-details{
     font-size: 14px;
     font-weight: 200;
+    color: #707575;
 }
 
 .section-subtitle{
@@ -82,6 +85,7 @@ padding-left:70px;
 }
 .section-subtitle-text{
     padding-top:7px;
+    color: #707575;
 }
 
 /* my-plan-section */
@@ -101,6 +105,7 @@ display: flex;
 
 .center{
     text-align: center;
+    color: #707575;
 }
 
 .my-plan-heading{
@@ -181,9 +186,11 @@ color: black;
 }
 #future-text{
     font-size: 11px;
+    color: #707575;
+    padding: 14px 3px;
 }
 #btn-subscribe{
-    margin-left: 463px;
+    margin-left: 521px;
     margin-bottom: 8px;
     padding: 11px 19px;
     border-radius: 6px;
