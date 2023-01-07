@@ -1,0 +1,192 @@
+/* CSS Reset */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#header-container{
+    background-image:url('../images/banner/banner1.png'); 
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:100%;
+    padding-bottom: 172px;
+    height:397px ;
+    
+}
+#header-body{
+    margin: 0px;
+    padding:83px 36px;
+
+}
+
+#header-title{
+    font-size:54px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 35px;
+}
+
+.h-primary{
+    text-align: right;
+    margin-right: 100px;
+    font-size: 11px;
+}
+#p-primary{
+    text-align: right; 
+    padding-top: 12px;
+}
+
+.btn {
+    padding: 18px 18px;
+    border: none;
+    background-color: #ff5722;
+    color: white;
+    margin-top: 65px;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+#button{
+    margin:-114px 140px;
+    text-align:right;
+}
+
+/* Section Container */
+#failure-container{
+    padding:85px;
+    display: flex;
+}
+
+.section-title{
+padding-top: 15px;
+padding-left:70px;
+}
+#section-heading{
+    padding-top:208px;
+    font-size: 32px;
+}
+#section-details{
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.section-subtitle{
+    margin-top: 19px;
+    margin-left: 92px;
+    font-size: 12px;
+    
+}
+#section-control{
+    margin-inline-end:-58px;
+}
+.section-subtitle-text{
+    padding-top:7px;
+}
+
+/* my-plan-section */
+
+#my-plan-title{
+font-size: 35px;
+}
+
+#my-plan-container{
+    margin: 34px;
+    text-align: center;;
+}
+
+#my-plan{ 
+display: flex;
+}
+
+.center{
+    text-align: center;
+}
+
+.my-plan-heading{
+    text-align: center;
+}
+.my-plan-box{
+    padding: 14px;
+    margin: 25px;
+    padding: 34px;
+    margin: auto;
+}
+
+#gradient-img{
+    background-image: url('../images/watch.png'),url('../images/gradient2.png');
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-blend-mode: lighten;
+    background-position:center;
+    margin: -189px 5px;
+
+}
+
+#watch{
+    height: 206px;
+    width: 954px;
+    display: flex;
+    margin: auto;
+}
+#dot{
+    padding-top: 250px;
+}
+
+#gradient-title{
+    text-align: left;
+    margin-left: 105px;
+    padding-top: 275px;
+    margin-bottom: -43px;
+    color: white;
+    font-size: 32px;
+}
+
+.btn-watch{
+    margin: -15px 106px;
+    margin-top: 68px;
+    border-radius: 6px;
+    border: none;
+    color: #ff5252;
+    font-size: 15px;
+    padding: 12px 18px;}
+    
+footer {
+    background: black;
+    color: white;
+
+}
+
+#logo-img{
+    display: flex;
+    padding-left: 5px;
+    padding-top: 37px;
+    padding-left: 91px;
+}
+#future-container{
+    margin-left: 97px;
+    margin-top: 43px;
+    padding-top: 41px;
+}
+
+#phone-no{
+    color:#777575;
+}
+.logo{
+    padding-left:15px;
+}
+
+.right-side{
+color: black;
+}
+#future-text{
+    font-size: 11px;
+}
+#btn-subscribe{
+    margin-left: 463px;
+    margin-bottom: 8px;
+    padding: 11px 19px;
+    border-radius: 6px;
+    color: #ff6800;
+    font-size: 17px;
+}
